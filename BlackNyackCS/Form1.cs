@@ -473,7 +473,7 @@ namespace BlackNyackCS
 
                 if (parsed.CompareTo(currentVersion) != 0)
                 {
-                    var dialog = "There is a new version! Want to go get it?\n\nYour Version: " + parsed.ToString() + "\n" + "New Version: " + currentVersion.ToString();
+                    var dialog = "There is a new version! Want to go get it?\n\nYour Version: " + currentVersion.ToString() + "\n" + "New Version: " + parsed.ToString();
                     var result = MessageBox.Show(dialog, "New Version!", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
                     if (result == DialogResult.Yes)
                     {
