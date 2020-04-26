@@ -34,7 +34,7 @@ namespace BlackNyackCS
 
     public partial class Form1 : Form
     {
-        static readonly Version currentVersion = new Version(1, 0, 0);
+        static readonly Version currentVersion = new Version(1, 0, 1);
 
         private static Color PlayerColor = Color.DarkGreen;
         private Color NyauColor = Color.DarkOrange;

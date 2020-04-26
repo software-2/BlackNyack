@@ -104,7 +104,7 @@
             // 
             // spade_king
             // 
-            this.spade_king.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_king.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_king.Location = new System.Drawing.Point(600, 165);
             this.spade_king.Name = "spade_king";
             this.spade_king.Size = new System.Drawing.Size(50, 40);
@@ -115,7 +115,7 @@
             // 
             // spade_queen
             // 
-            this.spade_queen.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_queen.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_queen.Location = new System.Drawing.Point(551, 165);
             this.spade_queen.Name = "spade_queen";
             this.spade_queen.Size = new System.Drawing.Size(50, 40);
@@ -126,7 +126,7 @@
             // 
             // spade_jack
             // 
-            this.spade_jack.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_jack.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_jack.Location = new System.Drawing.Point(502, 165);
             this.spade_jack.Name = "spade_jack";
             this.spade_jack.Size = new System.Drawing.Size(50, 40);
@@ -137,7 +137,7 @@
             // 
             // spade_10
             // 
-            this.spade_10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_10.Location = new System.Drawing.Point(453, 165);
             this.spade_10.Name = "spade_10";
             this.spade_10.Size = new System.Drawing.Size(50, 40);
@@ -148,7 +148,7 @@
             // 
             // spade_9
             // 
-            this.spade_9.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_9.Location = new System.Drawing.Point(404, 165);
             this.spade_9.Name = "spade_9";
             this.spade_9.Size = new System.Drawing.Size(50, 40);
@@ -159,7 +159,7 @@
             // 
             // spade_8
             // 
-            this.spade_8.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_8.Location = new System.Drawing.Point(355, 165);
             this.spade_8.Name = "spade_8";
             this.spade_8.Size = new System.Drawing.Size(50, 40);
@@ -170,7 +170,7 @@
             // 
             // spade_7
             // 
-            this.spade_7.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_7.Location = new System.Drawing.Point(306, 165);
             this.spade_7.Name = "spade_7";
             this.spade_7.Size = new System.Drawing.Size(50, 40);
@@ -181,7 +181,7 @@
             // 
             // spade_6
             // 
-            this.spade_6.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_6.Location = new System.Drawing.Point(257, 165);
             this.spade_6.Name = "spade_6";
             this.spade_6.Size = new System.Drawing.Size(50, 40);
@@ -192,7 +192,7 @@
             // 
             // spade_5
             // 
-            this.spade_5.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_5.Location = new System.Drawing.Point(208, 165);
             this.spade_5.Name = "spade_5";
             this.spade_5.Size = new System.Drawing.Size(50, 40);
@@ -203,7 +203,7 @@
             // 
             // spade_4
             // 
-            this.spade_4.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_4.Location = new System.Drawing.Point(159, 165);
             this.spade_4.Name = "spade_4";
             this.spade_4.Size = new System.Drawing.Size(50, 40);
@@ -214,7 +214,7 @@
             // 
             // spade_3
             // 
-            this.spade_3.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_3.Location = new System.Drawing.Point(110, 165);
             this.spade_3.Name = "spade_3";
             this.spade_3.Size = new System.Drawing.Size(50, 40);
@@ -225,7 +225,7 @@
             // 
             // spade_2
             // 
-            this.spade_2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_2.Location = new System.Drawing.Point(61, 165);
             this.spade_2.Name = "spade_2";
             this.spade_2.Size = new System.Drawing.Size(50, 40);
@@ -236,7 +236,7 @@
             // 
             // spade_ace
             // 
-            this.spade_ace.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.spade_ace.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.spade_ace.Location = new System.Drawing.Point(12, 165);
             this.spade_ace.Name = "spade_ace";
             this.spade_ace.Size = new System.Drawing.Size(50, 40);
@@ -247,7 +247,7 @@
             // 
             // diamond_king
             // 
-            this.diamond_king.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_king.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_king.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_king.Location = new System.Drawing.Point(600, 119);
             this.diamond_king.Name = "diamond_king";
@@ -259,7 +259,7 @@
             // 
             // diamond_queen
             // 
-            this.diamond_queen.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_queen.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_queen.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_queen.Location = new System.Drawing.Point(551, 119);
             this.diamond_queen.Name = "diamond_queen";
@@ -271,7 +271,7 @@
             // 
             // diamond_jack
             // 
-            this.diamond_jack.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_jack.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_jack.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_jack.Location = new System.Drawing.Point(502, 119);
             this.diamond_jack.Name = "diamond_jack";
@@ -283,7 +283,7 @@
             // 
             // diamond_10
             // 
-            this.diamond_10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_10.Location = new System.Drawing.Point(453, 119);
             this.diamond_10.Name = "diamond_10";
@@ -295,7 +295,7 @@
             // 
             // diamond_9
             // 
-            this.diamond_9.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_9.Location = new System.Drawing.Point(404, 119);
             this.diamond_9.Name = "diamond_9";
@@ -307,7 +307,7 @@
             // 
             // diamond_8
             // 
-            this.diamond_8.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_8.Location = new System.Drawing.Point(355, 119);
             this.diamond_8.Name = "diamond_8";
@@ -319,7 +319,7 @@
             // 
             // diamond_7
             // 
-            this.diamond_7.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_7.Location = new System.Drawing.Point(306, 119);
             this.diamond_7.Name = "diamond_7";
@@ -331,7 +331,7 @@
             // 
             // diamond_6
             // 
-            this.diamond_6.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_6.Location = new System.Drawing.Point(257, 119);
             this.diamond_6.Name = "diamond_6";
@@ -343,7 +343,7 @@
             // 
             // diamond_5
             // 
-            this.diamond_5.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_5.Location = new System.Drawing.Point(208, 119);
             this.diamond_5.Name = "diamond_5";
@@ -355,7 +355,7 @@
             // 
             // diamond_4
             // 
-            this.diamond_4.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_4.Location = new System.Drawing.Point(159, 119);
             this.diamond_4.Name = "diamond_4";
@@ -367,7 +367,7 @@
             // 
             // diamond_3
             // 
-            this.diamond_3.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_3.Location = new System.Drawing.Point(110, 119);
             this.diamond_3.Name = "diamond_3";
@@ -379,7 +379,7 @@
             // 
             // diamond_2
             // 
-            this.diamond_2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_2.Location = new System.Drawing.Point(61, 119);
             this.diamond_2.Name = "diamond_2";
@@ -391,7 +391,7 @@
             // 
             // diamond_ace
             // 
-            this.diamond_ace.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.diamond_ace.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.diamond_ace.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.diamond_ace.Location = new System.Drawing.Point(12, 119);
             this.diamond_ace.Name = "diamond_ace";
@@ -403,7 +403,7 @@
             // 
             // club_king
             // 
-            this.club_king.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_king.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_king.Location = new System.Drawing.Point(600, 73);
             this.club_king.Name = "club_king";
             this.club_king.Size = new System.Drawing.Size(50, 40);
@@ -414,7 +414,7 @@
             // 
             // club_queen
             // 
-            this.club_queen.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_queen.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_queen.Location = new System.Drawing.Point(551, 73);
             this.club_queen.Name = "club_queen";
             this.club_queen.Size = new System.Drawing.Size(50, 40);
@@ -425,7 +425,7 @@
             // 
             // club_jack
             // 
-            this.club_jack.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_jack.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_jack.Location = new System.Drawing.Point(502, 73);
             this.club_jack.Name = "club_jack";
             this.club_jack.Size = new System.Drawing.Size(50, 40);
@@ -436,7 +436,7 @@
             // 
             // club_10
             // 
-            this.club_10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_10.Location = new System.Drawing.Point(453, 73);
             this.club_10.Name = "club_10";
             this.club_10.Size = new System.Drawing.Size(50, 40);
@@ -447,7 +447,7 @@
             // 
             // club_9
             // 
-            this.club_9.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_9.Location = new System.Drawing.Point(404, 73);
             this.club_9.Name = "club_9";
             this.club_9.Size = new System.Drawing.Size(50, 40);
@@ -458,7 +458,7 @@
             // 
             // club_8
             // 
-            this.club_8.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_8.Location = new System.Drawing.Point(355, 73);
             this.club_8.Name = "club_8";
             this.club_8.Size = new System.Drawing.Size(50, 40);
@@ -469,7 +469,7 @@
             // 
             // club_7
             // 
-            this.club_7.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_7.Location = new System.Drawing.Point(306, 73);
             this.club_7.Name = "club_7";
             this.club_7.Size = new System.Drawing.Size(50, 40);
@@ -480,7 +480,7 @@
             // 
             // club_6
             // 
-            this.club_6.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_6.Location = new System.Drawing.Point(257, 73);
             this.club_6.Name = "club_6";
             this.club_6.Size = new System.Drawing.Size(50, 40);
@@ -491,7 +491,7 @@
             // 
             // club_5
             // 
-            this.club_5.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_5.Location = new System.Drawing.Point(208, 73);
             this.club_5.Name = "club_5";
             this.club_5.Size = new System.Drawing.Size(50, 40);
@@ -502,7 +502,7 @@
             // 
             // club_4
             // 
-            this.club_4.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_4.Location = new System.Drawing.Point(159, 73);
             this.club_4.Name = "club_4";
             this.club_4.Size = new System.Drawing.Size(50, 40);
@@ -513,7 +513,7 @@
             // 
             // club_3
             // 
-            this.club_3.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_3.Location = new System.Drawing.Point(110, 73);
             this.club_3.Name = "club_3";
             this.club_3.Size = new System.Drawing.Size(50, 40);
@@ -524,7 +524,7 @@
             // 
             // club_2
             // 
-            this.club_2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_2.Location = new System.Drawing.Point(61, 73);
             this.club_2.Name = "club_2";
             this.club_2.Size = new System.Drawing.Size(50, 40);
@@ -535,7 +535,7 @@
             // 
             // club_ace
             // 
-            this.club_ace.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.club_ace.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.club_ace.Location = new System.Drawing.Point(12, 73);
             this.club_ace.Name = "club_ace";
             this.club_ace.Size = new System.Drawing.Size(50, 40);
@@ -546,7 +546,7 @@
             // 
             // heart_king
             // 
-            this.heart_king.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_king.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_king.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_king.Location = new System.Drawing.Point(600, 27);
             this.heart_king.Name = "heart_king";
@@ -558,7 +558,7 @@
             // 
             // heart_queen
             // 
-            this.heart_queen.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_queen.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_queen.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_queen.Location = new System.Drawing.Point(551, 27);
             this.heart_queen.Name = "heart_queen";
@@ -570,7 +570,7 @@
             // 
             // heart_jack
             // 
-            this.heart_jack.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_jack.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_jack.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_jack.Location = new System.Drawing.Point(502, 27);
             this.heart_jack.Name = "heart_jack";
@@ -582,7 +582,7 @@
             // 
             // heart_10
             // 
-            this.heart_10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_10.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_10.Location = new System.Drawing.Point(453, 27);
             this.heart_10.Name = "heart_10";
@@ -594,7 +594,7 @@
             // 
             // heart_9
             // 
-            this.heart_9.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_9.Location = new System.Drawing.Point(404, 27);
             this.heart_9.Name = "heart_9";
@@ -606,7 +606,7 @@
             // 
             // heart_8
             // 
-            this.heart_8.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_8.Location = new System.Drawing.Point(355, 27);
             this.heart_8.Name = "heart_8";
@@ -618,7 +618,7 @@
             // 
             // heart_7
             // 
-            this.heart_7.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_7.Location = new System.Drawing.Point(306, 27);
             this.heart_7.Name = "heart_7";
@@ -630,7 +630,7 @@
             // 
             // heart_6
             // 
-            this.heart_6.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_6.Location = new System.Drawing.Point(257, 27);
             this.heart_6.Name = "heart_6";
@@ -642,7 +642,7 @@
             // 
             // heart_5
             // 
-            this.heart_5.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_5.Location = new System.Drawing.Point(208, 27);
             this.heart_5.Name = "heart_5";
@@ -654,7 +654,7 @@
             // 
             // heart_4
             // 
-            this.heart_4.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_4.Location = new System.Drawing.Point(159, 27);
             this.heart_4.Name = "heart_4";
@@ -666,7 +666,7 @@
             // 
             // heart_3
             // 
-            this.heart_3.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_3.Location = new System.Drawing.Point(110, 27);
             this.heart_3.Name = "heart_3";
@@ -678,7 +678,7 @@
             // 
             // heart_2
             // 
-            this.heart_2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_2.Location = new System.Drawing.Point(61, 27);
             this.heart_2.Name = "heart_2";
@@ -690,7 +690,7 @@
             // 
             // heart_ace
             // 
-            this.heart_ace.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.heart_ace.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.heart_ace.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.heart_ace.Location = new System.Drawing.Point(12, 27);
             this.heart_ace.Name = "heart_ace";
